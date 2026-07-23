@@ -6,4 +6,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solace-asante&layout=compact&theme=radical" width="48%" />
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=solace-asante&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=solace-asante&theme=radical)
