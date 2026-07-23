@@ -4,5 +4,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solace-asante&theme=react-dark" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=solace-asante&theme=react-dark&hide_border=true" width="97%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshaikh.com/solace-asante" width="97%" />
 </p>
