@@ -1,6 +1,6 @@
 # Solace Asante
 
-Working with Data Science, Machine Learning, Python, and SQL databases.
+Data Science | Machine Learning | Python | SQL 
 
 ---
 
